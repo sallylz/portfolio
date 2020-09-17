@@ -8,7 +8,7 @@ export default class Home extends Component {
                     <a href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></a>
                     <aside id="colorlib-aside" className="border js-fullheight">
                         <div className="text-center">
-                            <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
+                            <div className="author-img" style={{backgroundImage: 'url(images/navbar_img.jpg)'}} />
                             <h1 id="colorlib-logo"><a href="index.html">Sally Zhao</a></h1>
                             <span className="position">Software Developer</span>
                         </div>
