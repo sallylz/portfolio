@@ -21,17 +21,13 @@ export default class Home extends Component {
                                 <li><a href="#experience" data-nav-section="experience">Experience</a></li>
                                 <li><a href="#projects" data-nav-section="skills">Projects</a></li>
                                 <li><a href="#skills" data-nav-section="skills">Skills</a></li>
+                                <li><a href="https://github.com/sallylz" target="_blank" rel="noopener noreferrer"><i className="icon-github" /></a></li>
+                                <li><a href="https://www.linkedin.com/in/sallylzhao/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
 
                             </ul>
                             </div>
                         </nav>
 
-                        <nav id="colorlib-main-menu">
-                            <ul>
-                                <li><a href="https://github.com/sallylz" target="_blank" rel="noopener noreferrer"><i className="icon-github" /></a></li>
-                                <li><a href="https://www.linkedin.com/in/sallylzhao/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                            </ul>
-                        </nav>
                         <div className="colorlib-footer">
                             <p><small>© {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
                                 Copyright © All rights reserved | This template is made with <i className="icon-heart" aria-hidden="true" /> by <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a>
