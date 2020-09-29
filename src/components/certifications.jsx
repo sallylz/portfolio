@@ -26,7 +26,7 @@ export default class Certifications extends Component {
                                                 <div id="collapseOne" className="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                                 <div className="panel-body">
                                                     <p>Issued <strong>March 2020</strong> </p>
-                                                    <p>Credential ID: 21002858</p>
+                                                    <p><strong>Credential ID:</strong> 21002858</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -40,7 +40,7 @@ export default class Certifications extends Component {
                                                 <div id="collapseTwo" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                                 <div className="panel-body">
                                                     <p>Issued <strong>April 2020</strong> </p>
-                                                    <p>Credential ID: 21110806</p>
+                                                    <p><strong>Credential ID:</strong> 21110806</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -54,7 +54,7 @@ export default class Certifications extends Component {
                                                 <div id="collapseThree" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                                 <div className="panel-body">
                                                     <p>Issued <strong>May 2020</strong> </p>
-                                                    <p>Credential ID: 21209106</p>
+                                                    <p><strong>Credential ID:</strong> 21209106</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -68,7 +68,7 @@ export default class Certifications extends Component {
                                                 <div id="collapseFour" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
                                                 <div className="panel-body">
                                                     <p>Issued <strong>August 2020</strong> </p>
-                                                    <p>Credential ID: 21442793</p>
+                                                    <p><strong>Credential ID:</strong> 21442793</p>
                                                 </div>
                                             </div>
                                         </div>

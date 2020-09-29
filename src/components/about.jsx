@@ -14,9 +14,10 @@ export default class About extends Component {
                                             <span className="heading-meta">About Me</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
                                             <p><strong>Hi, I'm Sally! </strong> I am a recent computer science graduate from UC Davis based in the San Francisco Bay Area. 
-                                            I've worked with a variety of technologies and frameworks including but not limited to Java, JavaScript, HTML/CSS, React JS, and Salesforce.
+                                            I've worked with a variety of technologies and frameworks including but not limited to <strong>Java</strong>, <strong>JavaScript</strong>, <strong>HTML/CSS</strong>, <strong>React JS</strong>, and <strong>Salesforce</strong>.
                                             I love learning and developing new technologies, finding solutions to difficult problems, and continuously improving my programming skills.</p>
-                                            <p> In my spare time, I like to find new projects to work on, watch Shark Tank, and play Call of Duty.</p>
+                                            <p> In my spare time, I like to find new projects to work on, code and listen to tropical house music, and play Call of Duty. 
+                                            Due to quarantine and the extra time I had on my hands, I even qualified for COD championships but unfortunately never made it past stage 2.</p>
                                         </div>
                                     </div>
                                 </div>
