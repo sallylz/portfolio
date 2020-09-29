@@ -10,10 +10,30 @@ export default class Education extends Component {
                             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                                 <span className="heading-meta">Education</span>
                                 <h2 className="colorlib-heading animate-box">University of California, Davis <span> 2017 - 2019</span></h2>
-                                    <div className="about-desc">
-                                        <p>Bachelor of Science in Computer Science</p>
-                                    </div>                                                                                             
+                                                                                                                           
                             </div>
+                            <div id="colorlib-counter" className="colorlib-counters" style={{backgroundImage: 'url(images/ucdavis.jpg)'}} data-stellar-background-ratio="0.5">
+                                    <div className="overlay" />
+                                        <div className="colorlib-narrow-content">
+                                            <div className="row"></div>
+                                            <div className="row">
+                                                <div className="col-md-4 text-center animate-box">
+                                                    <br></br>
+                                                    <span className="colorlib-counter-label">Bachelor of Science in</span>
+                                                    <span className="colorlib-counter-label"><strong>Computer Science</strong></span>
+                                                </div>
+                                                <div className="col-md-4 text-center animate-box">
+                                                    <span className="colorlib-counter js-counter" data-from={0} data-to={196} data-speed={5000} data-refresh-interval={50} />
+                                                    <span className="colorlib-counter-label">Cups of coffee</span>
+                                                </div>
+                                                <div className="col-md-4 text-center animate-box">
+                                                    <span className="colorlib-counter js-counter" data-from={0} data-to={32} data-speed={5000} data-refresh-interval={50} />
+                                                    <span className="colorlib-counter-label">Projects</span>
+                                                </div>
+
+                                        </div>
+                                    </div>
+                                </div>
                         </div>
 
 
@@ -33,6 +53,7 @@ export default class Education extends Component {
                         </div> */}
                     </div>
                 </section>
+                
             </div>
         )
     }
