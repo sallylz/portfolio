@@ -27,7 +27,7 @@ export default class Education extends Component {
                                                     <span className="colorlib-counter-label">Cups of coffee</span>
                                                 </div>
                                                 <div className="col-md-4 text-center animate-box">
-                                                    <span className="colorlib-counter js-counter" data-from={0} data-to={32} data-speed={5000} data-refresh-interval={50} />
+                                                    <span className="colorlib-counter js-counter" data-from={0} data-to={28} data-speed={5000} data-refresh-interval={50} />
                                                     <span className="colorlib-counter-label">Projects</span>
                                                 </div>
 
