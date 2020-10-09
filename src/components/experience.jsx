@@ -24,7 +24,7 @@ export default class Experience extends Component {
                                                 <h2>Software Developer Intern <span>February 2020 - September 2020</span></h2>
                                                 <ul>
                                                     <li>Translated project requirements into technical details 
-                                                        and developed a custom search engine to filter a list of bikes based on bike type to match client requests with the bike inventory</li>
+                                                        and developed a custom search engine to filter a list of products to match client requests with the product inventory</li>
                                                     <li>Developed CRM database solutions and deployed unit tests to optimize project requirements</li>
                                                     <li>Integrated third-party tools with REST API and triggers to automate business processes</li>
                                                 </ul>
